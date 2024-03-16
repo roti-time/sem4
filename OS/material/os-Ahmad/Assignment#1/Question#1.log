@@ -1,0 +1,32 @@
+Last backup file q1.log.20240309191805
+
+
+Sat Mar  9 19:18:31 PKT 2024
+
+ALERT!! THESE DISKS ARE ABOVE THRESHOLD
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p7   45G   33G  9.4G  78% /
+efivarfs        384K  254K  126K  67% /sys/firmware/efi/efivars
+/dev/nvme0n1p5  180G  119G   62G  66% /media/gnome/Local Disk
+
+CPU usage was 11%
+
+Your Computer had 57% RAM availabe
+
+Log file is smaller than 10MB.
+
+
+Sat Mar  9 19:25:37 PKT 2024
+
+ALERT!! THESE DISKS ARE ABOVE THRESHOLD
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p7   45G   33G  9.4G  78% /
+efivarfs        384K  254K  126K  67% /sys/firmware/efi/efivars
+/dev/nvme0n1p5  180G  119G   62G  66% /media/gnome/Local Disk
+
+CPU usage was 10%
+
+Your Computer had 57% RAM availabe
+
+Log file is smaller than 10MB.
+
