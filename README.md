@@ -2,6 +2,9 @@
 
 Welcome to our organization! This document outlines the guidelines and best practices for collaborating on projects within our organization.
 
+## organization pattern
+    https://miro.com/app/board/uXjVM3rMP38=/
+
 ## Getting Started
 
 ### Installing Git
