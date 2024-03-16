@@ -5,6 +5,10 @@ Welcome to our organization! This document outlines the guidelines and best prac
 ## organization pattern
     https://miro.com/app/board/uXjVM3rMP38=/
 
+## where to ask questions on github things
+    Following is a link to a bot specifically made for github things, ask your questions there
+        https://poe.com/GithubGuide
+
 ## Getting Started
 
 ### Installing Git
