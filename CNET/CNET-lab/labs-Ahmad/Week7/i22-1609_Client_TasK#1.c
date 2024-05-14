@@ -28,8 +28,9 @@ int main()
     // Connection successful message
     printf("Connection successful!\n");
 
-    printf("Enter first number: ");
-    scanf("%s", &first_num);
+    printf("Enter a String: ");
+    //fgets("%s",&first_num,stdin);
+    fgets(first_num, sizeof(first_num), stdin);
     
     
     printf("Enter the operator: ");

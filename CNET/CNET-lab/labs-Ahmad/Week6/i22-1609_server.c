@@ -6,8 +6,6 @@
 #include <netinet/in.h> // has the sockaddr_in structure
 int main()
 {
-    char server_message[256];
-    scanf("%s", server_message);
     char buf[200];
     // create the server socket
     int server_socket;
@@ -26,7 +24,6 @@ int main()
 
     recv(client_socket, &buf, sizeof(buf), 0);
     printf("\n %s \n", buf);
-    send(client_socket, server_message, sizeof(server_message), 0);
     // close the socket
     close(server_socket);
     return 0;

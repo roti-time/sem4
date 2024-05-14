@@ -21,8 +21,8 @@ void *add()
         sum+=arr[i];
     }
     printf("Sum of the array is: %ld \n",sum);
-    
 }
+
 void *multiply()
 {
     long product=1;

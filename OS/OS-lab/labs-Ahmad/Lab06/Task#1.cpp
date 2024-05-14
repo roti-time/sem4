@@ -26,12 +26,11 @@ int main()
         srand(time(0)+ getpid());
         if (pid == 0)
         {
-            
             int x;
             x = rand()%3;
             close(pipfd[0]);
             write(pipfd[1], &x, sizeof(x));
-            close(pipfd[1]);
+           // close(pipfd[1]);
             exit(0);
         }
         else if (pid < 0)
